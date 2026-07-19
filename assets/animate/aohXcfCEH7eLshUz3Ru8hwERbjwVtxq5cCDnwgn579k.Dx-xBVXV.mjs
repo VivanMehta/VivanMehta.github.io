@@ -1,1 +1,0 @@
-import{a as e,c as t,o as n,s as r}from"/vivanmehta/assets/animate/shared-lib.DIR4wIS4.mjs";r();export{e as __FramerMetadata__,n as getSnippets,t as snippetsSorting};
